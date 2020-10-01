@@ -30,6 +30,8 @@ https://jobs.github.com
 
 https://linkedin.com 
 
+https://standardresume.co/remote-jobs
+
 # Developers
 https://djinni.co
 
