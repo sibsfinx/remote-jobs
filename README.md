@@ -2,6 +2,8 @@
 I'm often being asked how to get a remote job… So decided to put everything together in awesome-* repo style.
 
 # My recommendations (ranged)
+https://linkedin.com
+
 https://angel.co 
 
 https://github.com/lukasz-madon/awesome-remote-job
@@ -26,12 +28,7 @@ https://www.glassdoor.com
 
 https://stackoverflow.com/jobs
 
-https://jobs.github.com
-
-https://linkedin.com 
-
-# Developers
-https://djinni.co
+https://jobs.github.com 
 
 https://www.gun.io/ 
 
