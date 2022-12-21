@@ -28,8 +28,12 @@ https://www.glassdoor.com
 
 https://stackoverflow.com/jobs
 
-https://jobs.github.com 
+https://linkedin.com 
 
+https://standardresume.co/remote-jobs
+
+# Developers
+https://djinni.co
 https://www.gun.io/ 
 
 # Designers
